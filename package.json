@@ -1,0 +1,22 @@
+{
+  "name": "botnaldo-pereira",
+  "version": "1.0.0",
+  "main": "botnaldo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node botnaldo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0"
+  },
+  "engines": {
+    "node": "14.8.0",
+    "npm": "6.14.7"
+  },
+  "devDependencies": {},
+  "description": ""
+}
